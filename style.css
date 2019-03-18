@@ -151,6 +151,15 @@ img {
 	float: left;
 	margin: 1.66%;
 }
+#logo
+{
+	width: 10%;
+	float: left;
+}
+#header
+{
+	padding: 0px 0px 0px 200px;
+}
 .derecha
 {
 	width: 10%;
